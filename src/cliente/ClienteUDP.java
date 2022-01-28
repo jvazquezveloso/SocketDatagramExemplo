@@ -1,7 +1,7 @@
 import java.net.*;
 import java.io.*;
 
-public class cliente {
+public class ClienteUDP {
 
     // Os argumentos proporcionan a mensaxe e o nome do servidor
     public static void main(String args[]) {
